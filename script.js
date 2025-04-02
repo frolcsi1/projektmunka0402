@@ -1,4 +1,4 @@
-function scrollToTarget(event, target, targetId) {
+function open_and_scroll(event, target, targetId) {
     event.preventDefault();
     const element = document.querySelector(target);
     if (!element.classList.contains('show')) {
