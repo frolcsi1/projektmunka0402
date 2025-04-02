@@ -2,10 +2,10 @@
     font-size: 1.25rem;
 }
 
-body[data-bs-theme="dark"] {
-    background-color: rgb(100, 100, 100);
-}
-
 body[data-bs-theme="light"] {
     background-color: rgb(200, 200, 200);
+}
+
+body[data-bs-theme="dark"] {
+    background-color: rgb(100, 100, 100);
 }
