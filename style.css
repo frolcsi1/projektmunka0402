@@ -14,3 +14,10 @@ body[data-bs-theme="light"] {
 body[data-bs-theme="dark"] {
     background-color: rgb(50, 50, 50);
 }
+
+#navbar {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+}
