@@ -15,6 +15,10 @@ body[data-bs-theme="dark"] {
     background-color: rgb(50, 50, 50);
 }
 
+#basics {
+    margin-top: 82px;
+}
+
 html {
-    scroll-padding-top: 56px;
+    scroll-padding-top: 82px;
 }
