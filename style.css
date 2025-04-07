@@ -14,3 +14,7 @@ body[data-bs-theme="light"] {
 body[data-bs-theme="dark"] {
     background-color: rgb(50, 50, 50);
 }
+
+html {
+    scroll-padding-top: 56px;
+}
