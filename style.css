@@ -16,7 +16,9 @@ body[data-bs-theme="dark"] {
 }
 
 #basics {
-    margin-top: 82px;
+    margin-top: 92px;
+    border-width: 2px;
+    text-align: justify;
 }
 
 html {
