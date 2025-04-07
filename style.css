@@ -1,10 +1,5 @@
-.nav-link {
-    font-size: 1.25rem;
-}
-
-.card {
-    margin-left: 0.25rem;
-    margin-right: 0.25rem;
+html {
+    scroll-padding-top: 82px;
 }
 
 body[data-bs-theme="light"] {
@@ -15,6 +10,18 @@ body[data-bs-theme="dark"] {
     background-color: rgb(50, 50, 50);
 }
 
+body[data-bs-theme="light"] .text {
+    background-color: rgb(245, 222, 179);
+}
+
+body[data-bs-theme="dark"] .text {
+    background-color: rgb(100, 100, 100);
+}
+
+.nav-link {
+    font-size: 1.25rem;
+}
+
 #basics {
     margin-top: 92px;
 }
@@ -22,11 +29,12 @@ body[data-bs-theme="dark"] {
 .text {
     border: 2px solid black;
     text-align: justify;
-
+    background-color: rgb(245, 222, 179);
 }
 
-html {
-    scroll-padding-top: 82px;
+.card {
+    margin-left: 0.25rem;
+    margin-right: 0.25rem;
 }
 
 .card img {
