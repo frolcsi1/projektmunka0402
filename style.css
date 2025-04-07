@@ -17,8 +17,8 @@ body[data-bs-theme="dark"] {
 
 #basics {
     margin-top: 92px;
-    border-width: 2px;
-    text-align: justify;
+    border-width: 2px !important;
+    text-align: justify !important;
 }
 
 html {
