@@ -2,6 +2,10 @@ html {
     scroll-padding-top: 82px;
 }
 
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
 body[data-bs-theme="light"] {
     background-color: rgb(250, 250, 250);
 }
